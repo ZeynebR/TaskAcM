@@ -1,0 +1,14 @@
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\bin\Debug\net6.0\TaskAccessModifiers.exe
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\bin\Debug\net6.0\TaskAccessModifiers.deps.json
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\bin\Debug\net6.0\TaskAccessModifiers.runtimeconfig.json
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\bin\Debug\net6.0\TaskAccessModifiers.dll
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\bin\Debug\net6.0\TaskAccessModifiers.pdb
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\obj\Debug\net6.0\TaskAccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\obj\Debug\net6.0\TaskAccessModifiers.AssemblyInfoInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\obj\Debug\net6.0\TaskAccessModifiers.AssemblyInfo.cs
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\obj\Debug\net6.0\TaskAccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\obj\Debug\net6.0\TaskAccessModifiers.dll
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\obj\Debug\net6.0\refint\TaskAccessModifiers.dll
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\obj\Debug\net6.0\TaskAccessModifiers.pdb
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\obj\Debug\net6.0\TaskAccessModifiers.genruntimeconfig.cache
+C:\Users\zeyne\OneDrive\Desktop\TaskAccessModifiers\TaskAccessModifiers\obj\Debug\net6.0\ref\TaskAccessModifiers.dll
